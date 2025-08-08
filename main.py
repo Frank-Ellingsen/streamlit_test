@@ -36,6 +36,7 @@ print("Hello, Streamlit!")
 pressed = st.button("Click me")
 print(pressed)
 
-st.image(os.path.join(os.getcwd(),"static", "profil.png"),)
+
+
 
 
